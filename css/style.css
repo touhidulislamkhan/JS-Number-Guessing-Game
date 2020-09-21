@@ -1,0 +1,35 @@
+.container-fluid{
+    background-color: #435744;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin-bottom: 50px;
+}
+body{
+    background-color:#437644;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h3{
+    font-size: 3rem;
+    font-weight: 500;
+    margin-bottom: 60px;
+    color: whitesmoke;
+}
+
+.btn{
+    background-color: teal;
+}
+
+footer{
+    text-align: center;
+    font-size: 1.5rem;
+    color: white;
+    margin-top: 5rem;
+}
